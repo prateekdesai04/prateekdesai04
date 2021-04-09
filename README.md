@@ -1,6 +1,6 @@
 - Hi, I’m Prateek 👋
 - I’m a software engineer who is enthusiastic and curious about finding out how things work. This nature has driven me towards the field of computer science.
-- The domains of my interest include Web-development, Microservices , Computer Vision and Machine Learning.
+- The domains of my interest include Web-development, Microservices, Computer Vision and Machine Learning.
 - I am also highly interested in the areas of self-driving and object detection technologies and would like to work on either of these.
 - I'm very passionate about motoring and sports journalism.
 
